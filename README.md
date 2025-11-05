@@ -19,11 +19,19 @@ A Binance Smart Chain (BSC) copy trading bot built in Go that monitors swap tran
 - Access to BSC node (public RPC or your own node)
 - Basic understanding of DeFi and smart contracts
 
+## Contact Me
+
+If you have any question or something, feel free to reach out me anytime.
+<br>
+#### 🌹 You're always welcome 🌹
+
+Telegram: [@crypmancer](https://t.me/cryp_mancer) <br>
+
 ## Setup
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/crypmancer/bnb-copy-trading-bot-go
    cd bnb-copy-trading-bot-go
    ```
 
